@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+.navbar span{
+    color:orangered;
+    font-size:x-large;
+    font-weight: 800;
+}
+.navbar .logo{
+    width: max(10%,80px);
+}
+.navbar .profile{
+    width: 40px;
+}
